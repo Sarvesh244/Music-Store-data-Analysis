@@ -3,6 +3,9 @@
 SQL-driven retail music analytics using real-world relational data.  
 A hands-on exploration of customer behavior, genre popularity, and artist impact.
 
+## Preview
+https://github.com/Sarvesh244/Music-Store-data-Analysis/blob/main/Recording%202025-11-13%20115045.gif
+
 ## 📊 About the Project
 
 This project analyzes a simulated music store database containing customer, invoice, track, and artist data. Using structured SQL queries and an ER diagram-based schema, the analysis uncovers key patterns in music consumption. Queries span joins, groupings, subqueries, and ranking techniques to answer strategic business questions and highlight top-performing entities across countries, genres, and cities.
